@@ -6,12 +6,12 @@ Repositori ini berisi implementasi C++ dari berbagai konsep Pemrograman Berorien
 
 ## Kelas-kelas
 - [Exercise: Implementasi C++ OOP](#Exercise-Implementasi-C++-OOP)
-    - [Calculator](#Calculator)
-    - [Student](#Student)
-    - [Rectangle](#Rectangle)
-    - [Counter](#Counter)
-    - [Point](#Point)
-- [Kompilasi](#kompilasi)
+    - [Calculator](#1-Calculator)
+    - [Student](#2-Student)
+    - [Rectangle](#3-Rectangle)
+    - [Counter](#4-Counter)
+    - [Point](#4-Point)
+- [Kompilasi](#5-kompilasi)
 
 ### Exercise : Implementasi C++ OOP
 
