@@ -5,12 +5,15 @@
 Repositori ini berisi implementasi C++ dari berbagai konsep Pemrograman Berorientasi Objek (OOP), yang secara khusus berfokus pada **Abstraksi** dan **Ekapsulasi**. Kelas-kelas berikut ini diimplementasikan:
 
 ## Kelas-kelas
-- [Calculator](#Calculator)
-- [Student](#Student)
-- [Rectangle](#Rectangle)
-- [Counter](#Counter)
-- [Point](#Point)
+- [Exercise: Implementasi C++ OOP](#Exercise-Implementasi-C++-OOP)
+    - [Calculator](#Calculator)
+    - [Student](#Student)
+    - [Rectangle](#Rectangle)
+    - [Counter](#Counter)
+    - [Point](#Point)
 - [Kompilasi](#kompilasi)
+
+### Exercise : Implementasi C++ OOP
 
 ### 1. Calculator
 Kelas yang melakukan operasi aritmatika dasar pada dua angka.
